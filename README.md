@@ -1,7 +1,8 @@
-CRUD Simples em PHP e MySQL
+**CRUD Simples em PHP e MySQL**
 
 Este projeto é um exemplo básico de um sistema CRUD (Create, Read, Update, Delete) utilizando PHP e MySQL.
 Foi desenvolvido com foco em simplicidade, para que iniciantes possam entender facilmente como funciona a interação entre o backend (PHP) e o banco de dados.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Funcionalidades:** 
@@ -18,7 +19,7 @@ Conexão simples com banco de dados usando PDO
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Tecnologias Utilizadas:
+**Tecnologias Utilizadas:**
 
 PHP (PDO)
 
@@ -30,7 +31,7 @@ Servidor local como XAMPP, WAMP ou Laragon
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Como Usar:
+**Como Usar:**
 
 Criar registro
 Abra a página create.php e preencha o formulário.
