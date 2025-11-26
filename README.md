@@ -4,8 +4,8 @@ Este projeto é um exemplo básico de um sistema CRUD (Create, Read, Update, Del
 Foi desenvolvido com foco em simplicidade, para que iniciantes possam entender facilmente como funciona a interação entre o backend (PHP) e o banco de dados.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Funcionalidades:
-**Criar novos registros**
+Funcionalidades:
+Criar novos registros
 Listar registros existentes
 Editar registros
 Excluir registros
